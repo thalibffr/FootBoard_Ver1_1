@@ -50,8 +50,8 @@
     <h2>Repository Contents</h2>
     <p>
       <ul>
-        <li><a href="https://github.com/MasatoKubotera/MainBoard_ver2_0">Repository Contents</li>
-        <li><a href="https://github.com/MasatoKubotera/MainBoard_ver2_1">Development</a></li>
+        <li><a href="">Repository Contents</li>
+        <li><a href="">Development</a></li>
       </ul>
     </p>
     <h2>Development</h2>
