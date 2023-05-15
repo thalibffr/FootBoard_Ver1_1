@@ -52,6 +52,7 @@
       <ul>
         <li><a href="">Repository Contents</li>
         <li><a href="">Development</a></li>
+        <li><a href="">Contact</a></li>
       </ul>
     </p>
     <h2>Development</h2>
