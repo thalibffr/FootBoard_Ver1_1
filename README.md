@@ -74,6 +74,41 @@
       <td>1</td>
       <td></td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td>H4,H2,H1,H3</td>
+      <td>MountingHole_3mm</td>
+      <td>4</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>R12,R11,R13,R2</td>
+      <td>R_0805_2012Metric</td>
+      <td>4</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>C4,C6,C5</td>
+      <td>C_0805_2012Metric</td>
+      <td>3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>J8</td>
+      <td>PinHeader_1x01_P2.54mm_Vertical</td>
+      <td>1</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>FR,BR,FL,BL</td>
+      <td>JST_B4B-PH-K-S(LF)(SN)</td>
+      <td>4</td>
+      <td></td>
+    </tr>
     </table>
     <h2>Contact</h2>
     <p>
