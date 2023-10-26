@@ -59,6 +59,22 @@
     <p>
       <h3>BOM</h3>
     </p>
+    <table>
+    <tr>
+      <td>ID</td>
+      <td>Designator</td>
+      <td>Footprint</td>
+      <td>Quantity</td>
+      <td>Supplier</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>R4</td>
+      <td>R_0805_2012Metric</td>
+      <td>1</td>
+      <td></td>
+    </tr>
+    </table>
     <h2>Contact</h2>
     <p>
       If you have any question feel free to contact <a href="mailto:thalibfalih@gmail.com">thalibfalih@gmail.com</a> to ask it, or open an issue on this repository.
